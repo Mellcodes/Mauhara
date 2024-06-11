@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COSY HOMES</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        p {
+            color: #666;
+            text-align: center;
+            font-size: 1.2em;
+        }
+        .section {
+            margin-top: 40px;
+        }
+        .section-header {
+            font-size: 1.5em;
+            color: #333;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        .section-content {
+            color: #666;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to COSY HOMES</h1>
+            <p>Your destination for all things cozy and homely!</p>
+        </header>
+        
+        <div class="section">
+            <div class="section-header">About Us</div>
+            <div class="section-content">
+                <p>We are dedicated to bringing you the coziest home decor, furnishing tips, and lifestyle inspiration.</p>
+                <p>Whether you're looking to spruce up your living room, bedroom, or kitchen, we've got you covered with our handpicked selection of items and ideas.</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <div class="section-header">Our Mission</div>
+            <div class="section-content">
+                <p>At COSY HOMES, we believe that everyone deserves a comfortable and inviting living space that reflects their personality and style.</p>
+                <p>Our mission is to help you create a cozy and welcoming home environment that you'll love coming back to every day.</p>
+            </div>
+        </div>
+        
+        <footer>
+            &copy; 2024 COSY HOMES. All rights reserved.
+        </footer>
+    </div>
+</body>
+</html>
